@@ -22,16 +22,17 @@
 
 
 - 🌱 I’m currently learning 
-1) Angular
-2) React
-3) NoSQL (Google Firebase specifically)
-4) Cyber Security
-5) Artificial Intelligence
+1) Angular- with RXJS and google Firebase
+2) React- with AWS or Azure (undecided)
+3) Styling: CSS animations, media-queries, Sass and Less
+4) Database management: SQL, NoSQL
+5) Concept Domains: general adult education/ self learning, Cyber Security, Artificial Intelligence
+6) Social Research: Social Media Politics, Censorship, Sociology of Group Deviance  
 
 - 💞️ I’m looking for:
-1) Experience- looking for pro-bono projects, vollunteer IT work!!!
-2) Full time work: looking to break into the tech industry, to turn job a job opprotunity into a impact driven, highly specialized career.
-3) Willing and able to learn any tech stack AND pick up concepts and concept families QUICKLY.
+7) Experience- looking for pro-bono projects, vollunteer IT work!!!
+8) Full time work: looking to break into the tech industry, to turn job a job opprotunity into a impact driven, highly specialized career.
+9) Willing and able to learn any tech stack AND pick up concepts and concept families QUICKLY.
 
 - I have experience with:
 1) python
