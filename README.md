@@ -23,7 +23,7 @@
 3) Arabic Caligraphy, Bilingual graffiti
 # 🌱 I’m currently learning 
 1) Angular and React
-2) Design patterns
+2) Design patterns:
   - In the Object Oriented Space more specifically
   - Redux
 3) General Software engineering practices:
@@ -31,23 +31,38 @@
 - git 
 - using the command line more
 - using the mouse less
-4) Styling: CSS animations, Sass and Less
-5) Database management: SQL, NoSQL
-6) Concept Domains: general adult education/ self learning, Cyber Security, Artificial Intelligence
-7) Social Research: Social Media Politics, Censorship, Sociology of Group Deviance  
+4) Styling: 
+- CSS animations
+- Sass
+- Less
+5) Database management:
+- rdbms: SQL server Express, Oracle Database
+- SQL : MSsql, Psql
+- NoSQL : with Firestore
+7) Concept Domains: 
+- General adult education
+- Self learning
+- Cyber Security
+- Artificial Intelligence
+8) Social Research:
+- Social Media & Politics
+- Censorship in Higher Education
+- Sociology of Group Deviance
+- Serious, directed critique of postmodernism, activism as education, cultural marxism and critical race theory  
 # 💞️ I’m looking for:
-1) Experience- looking for pro-bono projects, vollunteer IT work!!!
+1) Experience- looking for pro-bono projects & vollunteer IT work
 2) Full time work: looking to break into the tech industry, to turn job a job opprotunity into a impact driven, highly specialized career.
 # I have experience with:
 1) Python, C/C# and Java
-2) HTML/CSS/vanilla Javascript
+2) HTML/CSS & vanilla Javascript
 3) Typescript and multiple modern web frameworks
 4) Java/Spring, PHP, Django, Ruby on Rails, Vue
-5) SQL : mssql, postgres/psql, 
-6) ORM and UI design, 
-7) requirements and reliability engineering
-8) Software project management
-9) System administration: 
+5) SQL and NoSql databases 
+6) ORM and UI design
+7) Requirements development
+8) Reliability engineering
+9) Software project management
+10) System administration: 
 - Bash
 - Batch
 - Unix and Linux
