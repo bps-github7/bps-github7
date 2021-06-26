@@ -35,6 +35,7 @@
 - CSS animations
 - Sass
 - Less
+- Responsiveness
 5) Database management:
 - rdbms: SQL server Express, Oracle Database
 - SQL : MSsql, Psql
