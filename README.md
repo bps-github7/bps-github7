@@ -2,28 +2,27 @@
 
 # 👀 I'm interested in 
 - Education : 
-1) Computer Science Education (desired/hypothetical PHd topic area, some day- time frame in the next 10-15 years)
-2) Programming Language and framework design (something I'd like to work in some day sooner than later)
-3) Introduction to programming and mathematics coureses (something I'd like to teach some day later than sooner)
+1) Computer Science Education 
+2) Programming Language and framework design 
+3) 3) Introduction to programming and mathematics coureses
 - Sustainability
-1) Recycling and compost
-2) Gardening
-3) Rethinking human centered processes
-4) Addressing the problems we've been socialized to not consider as problems (unthinking consumerism, unhollistic agriculture, not treating the places we live in and travel through as an ecosystem)
+4) Recycling and compost
+5) Gardening
+6) Rethinking human centered processes
+7) Addressing the problems we've been socialized to not consider as problems (unthinking consumerism, unhollistic agriculture, not treating the places we live in and travel through as an ecosystem)
 - Productivity:
-1) Utility tool design (see my python file/class generator)
-2) Creating helpful, useful Social media platforms (another thing I hope to do some day). 
-2) maximizing output without compromising quality
+8) Utility tool design
+9) Creating helpful, useful Social media platforms 
+10) maximizing output without compromising quality
 - Creativity 
-1) Music production
-2) Drawing textures
-3) Caligraphy 
+11) Music production
+12) Drawing textures
+13) Caligraphy 
 - Expanding my programming/ software engineering skill set to be able to accomplish these goals and more.
 
 
 - 🌱 I’m currently learning 
-1) Angular- with RXJS and google Firebase
-2) React- with AWS or Azure (undecided)
+1) Angular and React
 3) Styling: CSS animations, media-queries, Sass and Less
 4) Database management: SQL, NoSQL
 5) Concept Domains: general adult education/ self learning, Cyber Security, Artificial Intelligence
@@ -38,11 +37,12 @@
 1) python
 2) HTML/CSS/vanilla Javascript
 3) Typescript and multiple modern web frameworks
-4) Java/Spring MVC, PHP, Django, Ruby on Rails, Vue
+4) Java/Spring, PHP, Django, Ruby on Rails, Vue
 5) SQL : mssql, postgres/psql, 
-6) ORM and UI design, requirements and reliability engineering
-7) Software project management
-8) System administration toolkit: Bash, Batch and AWK scripting, great familiarity with Unix/linux, Containerization with Docker.
+6) ORM and UI design, 
+7) requirements and reliability engineering
+8) Software project management
+9) System administration toolkit: Bash, Batch and AWK scripting, great familiarity with Unix/linux, Containerization with Docker.
 
 - 📫 How to reach me :
 Email me at bps53@protonmail.
