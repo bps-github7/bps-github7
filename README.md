@@ -3,7 +3,7 @@
 ### Education : 
 1) Computer Science Education 
 2) Programming Language and framework design 
-3) Introduction to programming and mathematics coureses
+3) Teaching Introduction to programming and mathematics courses
 ### Sustainability
 1) Recycling and compost
 2) Gardening & Regenerative Agriculture
