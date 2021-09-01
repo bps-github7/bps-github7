@@ -13,7 +13,6 @@
 - Unhollistic agriculture
 - Not treating the places we live in and travel through as an ecosystem
 - Urban design: cars as part of everyday life, ideling and litter more generally 
-- Why did we stop innovating on a metacognitive scale after the industrial revolution?
 ### Productivity:
 1) Utility tool design
 2) Creating helpful, useful Social media platforms
@@ -49,7 +48,6 @@
 - Social Media & Politics
 - Censorship in Higher Education
 - Sociology of Group Deviance
-- Serious, directed critique of postmodernism, activism as education, cultural marxism and critical race theory  
 # 💞️ I’m looking for:
 1) Experience- looking for pro-bono projects & vollunteer IT work
 2) Full time work: looking to break into the tech industry, to turn job a job opprotunity into a impact driven, highly specialized career.
